@@ -37,9 +37,11 @@
   <h1>About me</h1>
   <img align="left" height="120" src="aboutme.gif"/>
   <div align="center">
-    <label>My name is Davi but some people call me Taiyo.
+    <label>
+My name is Davi but some people call me Taiyo.
 
 I like games, anime, movies, series and music.
+
 I love trying new foods and places.
 
 I have been passionate about technology and development since I was 12 years old.</label>
