@@ -22,14 +22,27 @@
   <h1> Social Network</h1>
   <img align="center" height="50" alt="Linkedin" href="https://www.linkedin.com/in/davi-paulino-b82134128/" src="linkedin.png" />
 </div>
-
-<div>
-  <div style="display: include_block"><br>
-  <h1>you need help ? call me </h1>
-  <img align="left" height="200" src="https://i.pinimg.com/originals/88/a5/6d/88a56d3ee31e5fa1be7ca0b49d321338.gif" />
+<br/>
+  <h1 algin="left"> you need help ? call me </h1>
+  <img align="left" height="150" src="smartphone.gif" />
+  <div align="center" style="display: include_block"><br>
   <img align="center" height="50" alt="Discord" src="discordia.png" />
   <label>  Taiyo#0458</label><label><br>
   <img align="center" height="50" alt="Email" src="outlook.png" />
   <label>DaviTaiyo@Outlook.com</label>
   </div>
 </div>
+<br/>
+<div>
+  <h1>About me</h1>
+  <img align="left" height="120" src="aboutme.gif"/>
+  <div align="center">
+    <label>My name is Davi but some people call me Taiyo.
+
+I like games, anime, movies, series and music.
+I love trying new foods and places.
+
+I have been passionate about technology and development since I was 12 years old.</label>
+  </div>
+</div>
+
