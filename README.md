@@ -44,5 +44,14 @@ I love trying new foods and places.
 
 I have been passionate about technology and development since I was 12 years old.</label>
   </div>
-</div>
+</div><br/>
 
+<div>
+  <h1 algin="left">Companies I worked for</h1>
+  <img align="left" height="150" src="work.gif"/>
+  <div align="center">
+    <img align="center" height="50" src="maisIngressos.png"/>
+    <br/>
+    <img align="center" height="50" src="cifal.png"/>
+  </div>
+</div>
