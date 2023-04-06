@@ -38,12 +38,9 @@
   <img align="left" height="120" src="aboutme.gif"/>
   <div align="center">
     <label>
-My name is Davi but some people call me Taiyo.
-
-I like games, anime, movies, series and music.
-
-I love trying new foods and places.
-
+My name is Davi but some people call me Taiyo.<br>
+I like games, anime, movies, series and music.<br>
+I love trying new foods and places.<br>
 I have been passionate about technology and development since I was 12 years old.</label>
   </div>
 </div><br/>
