@@ -20,7 +20,16 @@
     <img align="center" height="50" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </div>
   <h1> Social Network</h1>
-  <img align="center" height="50" alt="Linkedin" href="https://www.linkedin.com/in/davi-paulino-b82134128/" src="linkedin.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
+  <img align="center" height="50" alt="Linkedin" href="https://www.linkedin.com/in/davi-paulino-b82134128/" src="linkedin.png" />
+</div>
+
+<div>
+  <div style="display: include_block"><br>
+  <h1>you need help ? call me </h1>
+  <img align="left" height="200" src="https://i.pinimg.com/originals/88/a5/6d/88a56d3ee31e5fa1be7ca0b49d321338.gif" />
+  <img align="center" height="50" alt="Discord" src="discordia.png" />
+  <label>  Taiyo#0458</label><label><br>
+  <img align="center" height="50" alt="Email" src="outlook.png" />
+  <label>DaviTaiyo@Outlook.com</label>
+  </div>
 </div>
