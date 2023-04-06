@@ -4,8 +4,8 @@
   <br>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviTaiyo&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviTaiyo&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div><Br/>
-<br>
+</div>
+<br/>
 <div align="center">
   <h1 align="left">Languages and Network</h1> 
   <img align="left" height="250" src="https://i.pinimg.com/originals/06/1a/0b/061a0b2c52c8d509840f4c902fc966b3.gif"/>
